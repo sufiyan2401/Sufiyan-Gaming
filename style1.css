@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    margin-top:100px;
+}
+.terzo{
+   text-decoration: none; 
+   color: rgb(255, 4, 4);
+   font-weight: 500;
+}
+a{
+    text-decoration: none;
+}
+table{
+font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
